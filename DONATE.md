@@ -14,19 +14,6 @@ My name is [Nguyen Duc Tin aka DucNguyen](https://fb.com/ducnguyendanghe)
 
 ### Services
 
-<a href="https://buymeacoffee.com/99hoangtran" style="display:block" target="_blank">
-    <img src="https://github.githubassets.com/assets/buy_me_a_coffee-63ed78263f6e.svg" alt="buymeacoffee" width="30"/>
-    buymeacoffee.com/99hoangtran
-</a>
-<br/>
-
-<a href="https://patreon.com/99_hoangtran" style="display:block" target="_blank">
-    <img src="https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg" alt="patreon" width="30"/>
-    patreon.com/99_hoangtran
-</a>
-<br/>
-
-<a href="https://ko-fi.com/99hoangtran" style="display:block" target="_blank">
-    <img src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" alt="ko-fi" width="30"/>
-    ko-fi.com/99hoangtran
-</a>
+<a href="https://playerduo.net/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/PlayerDuo-FF0000?style=for-the-badge&logo=PlayerDuo&logoColor=white" alt="PlayerDuo"/></a>
+<a href="https://wescan.vn/ducnguyenofficial" target="blank"><img align="center" src="https://img.shields.io/badge/WeScan-FF0000?style=for-the-badge&logo=WeScan&logoColor=white" alt="WeScan"/></a>
+<a href="https://ko-fi.com/ducnguyenofficial" target="blank"><img align="center" src="https://img.shields.io/badge/kofi-FF0000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi"/></a>
