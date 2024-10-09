@@ -30,7 +30,12 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 ## Activity 👩‍💻
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=ducnguyen1357&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
-![DucNguyen1357's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DucNguyen1357&theme=tokyonight&layout=compact&hide_border=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducnguyen1357&show_icons=true&locale=en&layout=compact" alt="ducnguyen1357" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en" alt="ducnguyen1357" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&" alt="ducnguyen1357" /></p>
   
 ## Connect with me 😁
 
