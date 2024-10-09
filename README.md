@@ -5,7 +5,7 @@
 
 ## Overview
 
-- 🔭 I’m currently working on [IAS Viet Hoa](https://github.com/DucNguyen1357/IDM-Activation-Script-Viet-Hoa)
+- 🔭 I’m currently working on [IAS Viet Hoa](https://github.com/DucNguyen1357/IDM-Activation-Script-Viet-Hoa), [Fix VBS for Riot Client](https://github.com/DucNguyen1357/Fix-VBS-for-Riot-Client)
 
 - 🌱 I’m currently learning **Everything**
 
