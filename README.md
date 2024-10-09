@@ -19,7 +19,7 @@
 
 ## Donate💲🤝💖
 
-Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONATE)
+Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 
 ## GitHub Stats 📈
 
