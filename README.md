@@ -24,7 +24,7 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 ## GitHub Stats 📈
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true)
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?username=ducnguyen1357&theme=tokyonight&hide_border=true)
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&theme=tokyonight&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ducnguyen1357&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true)
 
 <div>
