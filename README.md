@@ -26,6 +26,11 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true)
 ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&theme=tokyonight&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ducnguyen1357&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true&align=center)
+
+## Activity 👩‍💻
+
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=ducnguyen1357&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
+![HoangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ducnguyen1357&theme=tokyonight&layout=compact&hide_border=true)
   
 ## Connect with me 😁
 
