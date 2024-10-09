@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DucNguyen aka Nguyen Duc Tin</h1>
+<h1 align="center">Hi 👋, I'm DucNguyen</h1>
 <h3 align="center">A passionate Game | Newbie Developer | Batch Programmer | Python | Freelancer from Vietnam</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ducnguyen1357&label=Profile%20views&color=0e75b6&style=flat" alt="ducnguyen1357" /> </p>
@@ -14,6 +14,8 @@
 - 📝 I regularly write articles on [https://ducnguyen.top/ducnguyentech](https://ducnguyen.top/ducnguyentech)
 
 - 📫 How to reach me **contact.ducnguyenwork@gmail.com**
+
+- 💬 My Real Name **Nguyen Duc Tin 🤣**
 
 - ⚡ Fun fact **I'm super lazy**
 
