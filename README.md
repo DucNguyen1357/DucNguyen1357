@@ -24,6 +24,11 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 ## GitHub Stats 📈
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ducnguyen1357" alt="ducnguyen1357" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducnguyen1357&show_icons=true&locale=en&layout=compact" alt="ducnguyen1357" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en" alt="ducnguyen1357" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&" alt="ducnguyen1357" /></p>
 
 ## Connect with me 😁
 
@@ -35,12 +40,3 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 <a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
 <a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="facebook"/></a>
 </div>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ducnguyenofficial"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ducnguyenofficial" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducnguyen1357&show_icons=true&locale=en&layout=compact" alt="ducnguyen1357" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en" alt="ducnguyen1357" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&" alt="ducnguyen1357" /></p>
