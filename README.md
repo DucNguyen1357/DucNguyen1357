@@ -25,13 +25,7 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true)
 ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&theme=tokyonight&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=ducnguyen1357&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true)
-
-<div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ducnguyen1357" alt="ducnguyen1357" /></a> </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en" alt="ducnguyen1357" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&" alt="ducnguyen1357" /></p>
-<div>
+![trophy](https://github-profile-trophy.vercel.app/?username=ducnguyen1357&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true&align=center)
   
 ## Connect with me 😁
 
