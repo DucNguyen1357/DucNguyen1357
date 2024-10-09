@@ -28,7 +28,7 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1357&show_icons=true&locale=en" alt="ducnguyen1357" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&" alt="ducnguyen1357" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1357&" alt="ducnguyen1357" /></p>
 
 ## Connect with me 😁
 
