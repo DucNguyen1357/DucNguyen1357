@@ -16,6 +16,10 @@
 
 - ⚡ Fun fact **I'm super lazy**
 
+## Donate ✨💲🤝💖
+
+Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONATE)
+
 ------------------------------------------------------
 <h3 align="left">GitHub Stats 📈</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ducnguyen1357" alt="ducnguyen1357" /></a> </p>
