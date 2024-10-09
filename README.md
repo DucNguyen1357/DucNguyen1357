@@ -29,11 +29,11 @@ Want to Donate!? [Click Here](https://ducnguyen1357.github.io/ducnguyen1357/DONA
 
 <div>
 <a href="https://fb.com/ducnguyenzzzz" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="https://twitter.com/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.youtube.com/c/@ducnguyendanghe" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=Youtube&logoColor=white" alt="youtube"/></a>
+<a href="https://instagram.com/ducnguyen1357.official" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://twitter.com/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
 <a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="facebook"/></a>
-<a href="https://instagram.com/ducnguyen1357.official" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="wakatime"/></a>
-<a href="https://www.youtube.com/c/@ducnguyendanghe" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=Youtube&logoColor=white" alt="wakatime"/></a>
 </div>
 
 <h3 align="left">Support:</h3>
