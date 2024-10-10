@@ -51,7 +51,7 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ps,pr,ae,au,vscode,visualstudio,replit,notion,github,codepen,stackoverflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=windows,ps,pr,ae,au,vscode,visualstudio,replit,notion,github,codepen,stackoverflow,wordpress,sublime" />
   </a>
 </p>
 
