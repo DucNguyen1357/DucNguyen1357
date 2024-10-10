@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DucNguyen</h1>
 <h3 align="center">A passionate Game | Newbie Developer | Batch Programmer | Python | Freelancer from Vietnam</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" align="center">
 <br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ducnguyen1357&label=Profile%20views&color=red&style=plastic" alt="ducnguyen1357" /> </p>
