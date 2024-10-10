@@ -5,6 +5,7 @@
 <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br>
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ducnguyen1357&label=Profile%20views&color=red&style=plastic" alt="ducnguyen1357" /> </p>
 
 ## Overview
@@ -65,9 +66,3 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 <a href="https://stackoverflow.com/users/19353623" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
 <a href="https://linkedin.com/in/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </div>
-
-
-<br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-<br>
-
