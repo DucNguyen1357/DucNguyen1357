@@ -1,4 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm DucNguyen
+=================================================================================================================================
 <h3 align="center">A passionate Game | Newbie Developer | Batch Programmer | Python | Freelancer from Vietnam</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ducnguyen1357&label=Profile%20views&color=red&style=plastic" alt="ducnguyen1357" /> </p>
