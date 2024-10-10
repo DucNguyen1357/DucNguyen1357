@@ -66,5 +66,8 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 <a href="https://linkedin.com/in/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </div>
 
+
+<br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-<br><br>
+<br>
+
