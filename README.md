@@ -43,15 +43,15 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,firebase,gcp,heroku,html,css,java,js,linux,mongodb,mysql,sqlite,nginx,nodejs,py,unity,unreal,wordpress" />
+    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,firebase,gcp,heroku,html,css,java,js,linux,mongodb,mysql,sqlite,nginx,nodejs,py,unity,unreal" />
   </a>
 </p>
 
-## My Software 💻
+## Know To Use 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ps,pr,ae,au,vscode,visualstudio,replit,notion,github,codepen,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=windows,ps,pr,ae,au,vscode,visualstudio,replit,notion,github,codepen,stackoverflow,wordpress" />
   </a>
 </p>
 
