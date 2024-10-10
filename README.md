@@ -42,4 +42,5 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 <a href="https://twitter.com/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
 <a href="https://stackoverflow.com/users/19353623" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
 <a href="https://linkedin.com/in/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.reddit.com/user/DucNguyen_Official" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-0077B5?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </div>
