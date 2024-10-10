@@ -47,7 +47,7 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
   </a>
 </p>
 
-## Know To Use 💻
+## Know To Use ⛏️
 
 <p align="center">
   <a href="https://skillicons.dev">
