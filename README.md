@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **contact.ducnguyenwork@gmail.com**
 
-- 💬 My Real Name **Nguyen Duc Tin 🤣**
-
 - ⚡ Fun fact **I'm super lazy**
 
 ## Donate💲🤝💖
