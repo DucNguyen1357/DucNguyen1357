@@ -72,3 +72,8 @@ To support the project directly, feel free to open issues for icon suggestions, 
 <a href="https://stackoverflow.com/users/19353623" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
 <a href="https://linkedin.com/in/ducnguyen1357" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </div>
+
+
+<br align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="animated" />
+</br>
