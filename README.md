@@ -41,7 +41,7 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,firebase,gcp,heroku,html,css,java,js,linux,mongodb,mysql,sqlite,nginx,nodejs,py,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,firebase,gcp,heroku,html,css,java,js,linux,mongodb,mysql,sqlite,nginx,nodejs,py" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Want to Donate!? [Click Here](https://ducnguyen.top/ducnguyentech/donate)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ps,pr,ae,au,vscode,visualstudio,replit,notion,github,codepen,stackoverflow,wordpress,sublime" />
+    <img src="https://skillicons.dev/icons?i=windows,ps,pr,ae,au,vscode,visualstudio,replit,notion,github,codepen,stackoverflow,wordpress,sublime,unity,unreal" />
   </a>
 </p>
 
