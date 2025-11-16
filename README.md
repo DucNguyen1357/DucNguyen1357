@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://ducnguyen.top/ducnguyentech](https://ducnguyen.top/ducnguyentech)
+- 👨‍💻 All of my projects are available at [https://ducnguyen.xyz/ducnguyentech](https://ducnguyen.xyz/ducnguyentech)
 
-- 📝 I regularly write articles on [https://ducnguyen.top/ducnguyentech](https://ducnguyen.top/ducnguyentech)
+- 📝 I regularly write articles on [https://ducnguyen.xyz/ducnguyentech](https://ducnguyen.xyz/ducnguyentech)
 
 - 📫 How to reach me **contact.ducnguyenwork@gmail.com**
 
